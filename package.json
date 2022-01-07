@@ -7,14 +7,14 @@
     "start": "pm2 start src/index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git"
+    "type": "git", 
+    "url": "git+https://github.com/Vanithaalagar/node-hello.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
+    "url": "https://github.com/Vanithaalagar/node-hello/issues"
   },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "homepage": "https://github.com/Vanithaalagar/node-hello#readme"
 }
